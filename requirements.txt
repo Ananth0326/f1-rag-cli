@@ -1,0 +1,4 @@
+requests
+fastf1
+sentence-transformers
+numpy
